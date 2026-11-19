@@ -1,0 +1,26 @@
+{
+  "name": "todo-list-project",
+  "version": "1.0.0",
+  "description": "node js project",
+  "homepage": "https://github.com/miralsolanki17/Todo-node.js-project#readme",
+  "bugs": {
+    "url": "https://github.com/miralsolanki17/Todo-node.js-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miralsolanki17/Todo-node.js-project.git"
+  },
+  "license": "ISC",
+  "author": "miral",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "^7.0.2",
+    "express": "^5.3.0",
+    "mongodb": "^7.7.0",
+    "nodemon": "^3.1.14"
+  }
+}
